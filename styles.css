@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+#imgcon{
+	width:600px;
+	height:220px;
+	object-fit:cover;
+	border-radius:5px;
+}
+.hero{
+	display:flex;
+	justify-items:center;
+	align-items:center;
+	gap:20px;
+	padding:20px;
+	/* flex-wrap:wrap;  */
+}
+#content{
+	
+	justify-items:center;
+	align-items:center;
+	
+}
+ button{
+	padding:10px;	
+	background-color:red;
+	color:white;
+	border-radius:2px;
+	width:150px;
+
+	 /* text-align:center; */
+	display:flex;	
+	 justify-content:center;
+	align-items:center;
+	 cursor:pointer;
+	
+	 
+}
+ 
